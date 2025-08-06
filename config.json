@@ -16,10 +16,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Rizzu",
+    "BOTNAME": "cupbot",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100040426712109"
+        "100011913349615"
     ],
     "NDH": [
         "100037743553265"
